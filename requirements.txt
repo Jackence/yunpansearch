@@ -1,0 +1,4 @@
+gevent
+re
+bs4
+requests
